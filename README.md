@@ -150,7 +150,7 @@ greet("Grover", "afternoon");
 ```
 
 Function declarations are hoisted to the top of the current scope; function
-declarations are not.
+expressions are not.
 
 ``` javascript
 
@@ -210,7 +210,7 @@ greet
 # => "Good morning you!"
 ```
 
-In JavaScript, you can make functions behave has though they have default
+In JavaScript, you can make functions behave as though they have default
 arguments. Here again is the simple greeting function:
 
 ```javascript
