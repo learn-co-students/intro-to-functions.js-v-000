@@ -210,7 +210,7 @@ greet
 # => "Good morning you!"
 ```
 
-In JavaScript, you can make functions behave has though they have default
+In JavaScript, you can make functions behave as though they have default
 arguments. Here again is the simple greeting function:
 
 ```javascript
